@@ -1,0 +1,10 @@
+body{
+  background-image: url('Tesla.jpg');
+  background-size: cover;
+}
+#m1{
+  font-size: 30px;
+  align-items: center;
+  text-align: center;
+  background-color: yellow;
+}

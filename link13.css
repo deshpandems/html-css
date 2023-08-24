@@ -1,0 +1,21 @@
+ol {
+  background: gold;
+  padding: 20px;
+}
+
+ul {
+  background: red;
+  padding: 20px;
+}
+
+ol li {
+  list-style-type: lower-roman;
+  background: red;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}

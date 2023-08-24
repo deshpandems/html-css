@@ -1,0 +1,20 @@
+#green
+{
+  text-decoration: none;
+  color: green;
+}
+#blue
+{
+  color: red;
+  text-decoration: none;
+}
+#initail
+{
+  color: initail;
+  text-decoration: none;
+}
+#inherit
+{
+    text-decoration: none;
+  color: inherit;
+}

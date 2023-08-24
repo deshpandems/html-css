@@ -1,0 +1,15 @@
+p::first-line{
+  font-size: 30px;
+  color: red;
+}
+h1::before{
+  content: url(tesla.jpg);
+}
+h1::after{
+  content: " added after";
+}
+
+::selection{
+  color: pink;
+  background: yellow;
+}

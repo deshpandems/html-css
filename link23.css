@@ -1,0 +1,15 @@
+/*li:last-child{
+  color: red;
+}
+
+li:nth-child(even){
+  color: gold;
+}
+
+li:nth-last-child(2){
+  color: pink;
+}
+*/
+input:focus{
+  border: 3px solid gold;
+}

@@ -1,0 +1,10 @@
+ul{
+  background-color: gold;
+  list-style-type: none;
+  overflow: auto;
+}
+li{
+/*  color: white;  */
+  padding: 5px 10px;
+  float: left;
+}

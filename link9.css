@@ -1,0 +1,17 @@
+h1
+  {
+      text-align: center;
+      font-weight: bold;
+      font-family: cursive;
+      background-color: lightgreen;
+      font-weight: 600;
+  }
+p
+  {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bolder;
+    font-kerning: auto;
+    background-color:  lightblue;
+
+  }

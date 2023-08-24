@@ -1,0 +1,37 @@
+@keyframes changecolor {
+  /*    from{ background-color: lightpink;  }
+      to{ background-color: gold; }
+
+      0% {background-color: red;}
+      25% {width: 300px;}
+      50% {background-color: blue;}
+      75% {width: 200px;}
+*/
+0% {background-color: red; border-radius: 0%}
+25% {background-color: yellow; border-radius: 25%;}
+50% {background-color: blue; border-radius: 50%}
+75% {background-color: gold;border-radius: 75%}
+100%{background-color: pink; border-radius: 100%}
+
+
+}
+/*
+#animate2{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  animation-name: changecolor;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+*/
+
+#animate{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  animation-name: changecolor;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}

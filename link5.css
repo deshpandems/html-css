@@ -1,0 +1,29 @@
+
+.div1
+{
+  background-color: #FF8C00;
+  border-style: double;
+  border-color: red;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+body
+{
+  border: 5px double;
+  background-color:  #ffdb19;
+}
+
+#mar
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}

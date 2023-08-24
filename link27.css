@@ -1,0 +1,46 @@
+#parent
+{
+    padding: 20px;
+    width: 50%;
+    margin: 100px;
+    position: relative;
+    }
+
+#one
+{
+  width: 100px;
+  height: 100px;
+  background-color: lightgreen;
+  display: inline-block;
+  position: relative;
+  z-index: 2;
+}
+
+#two
+{
+  border: 3px solid red;
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  left: -50px;
+  z-index: 3;
+
+}
+
+
+
+#three
+{
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  display: inline-block;
+  position: relative;
+  top: 100px;
+  left: -100px;
+z-index: 1;
+
+}

@@ -1,0 +1,11 @@
+div{
+  background-color: gold;
+  border: 1px solid red;
+  width: 500px;
+  margin: 100px;
+  padding: 20px;
+  box-shadow: -10px 15px 15px 3px grey, -10px 15px 15px 3px red;
+}
+#p1{
+  background-color: red;
+}

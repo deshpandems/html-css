@@ -1,0 +1,12 @@
+img{
+  filter: blur();
+
+    filter: brightness(90%);
+/*
+    filter: drop-shadow(10px 10px 10px red);
+
+    filter: grayscale(100%);
+
+  filter: invert();
+*/
+}

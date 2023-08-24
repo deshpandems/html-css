@@ -1,0 +1,30 @@
+/*ul{
+  color: red;
+}
+
+#list2{
+  color: red;
+}
+
+.list5{
+  color: gold;
+}
+
+a:hover{
+  color: red; pseudo class
+}
+p::first-line{
+  color: gold;          pseudo element
+  text-align: justify;
+}
+
+
+a[href="https://www.google.com"]{       Attribute selector
+  color: red;
+}
+
+*/
+
+div a{
+  color: red;
+}

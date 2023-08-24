@@ -1,0 +1,31 @@
+/*
+I.Block
+  1.new line
+  2.full width
+  3.height and width
+
+II.Inline
+  1.not start new Inline
+  2.no full width
+  3.no height and width
+
+III.Inline Block
+  1.not new start Inline
+  2.no full width
+  3.height and width
+
+
+*/
+
+.display
+{
+  border: 1px solid red;
+  width: 50%;
+  height: 100px;
+  display: inline-block;
+}
+#div1{
+/*  display: none;     */
+visibility: hidden;
+height: 500px;
+}

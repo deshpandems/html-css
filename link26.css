@@ -1,0 +1,52 @@
+/*
+  position types
+    1.static(default)
+    2.relative
+    3.fixed
+    4.absolute
+
+    1.top
+    2.bottom
+    3.left
+    4.right
+*/
+body{
+  height: 1000px;
+}
+#parent
+{
+    border: 3px solid red;
+    padding: 20px;
+    width: 50%;
+    margin: 100px;
+    position: relative;
+}
+
+#one
+{
+  width: 100px;
+  height: 100px;
+  background-color: lightgreen;
+  display: inline-block;
+  position: relative;
+}
+
+#two
+{
+  width: 100px;
+  height: 100px;
+  background-image: url(tesla.jpg);
+  display: inline-block;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+
+#three
+{
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  display: inline-block;
+}
